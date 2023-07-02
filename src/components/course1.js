@@ -22,7 +22,7 @@ function Page() {
                 <div className="single-col-max mx-auto">
                   <div className="hero-heading-upper pt-3 mb-3">Learn DSA in Just 100 Days! <br className="d-md-none" />Like A Pro</div>
                   <h1 className="hero-heading mb-5">
-                    <span className="brand mb-4 d-block"><span className="text-highlight pr-2">{'{'}</span><span className="name">100 Days of DSA</span><span className="text-highlight pl-2">{'}'}</span></span>
+                    <span className="brand mb-4 d-block"><span className="text-highlight pr-2">{'/*'}</span><span className="name">100 Days of DSA</span><span className="text-highlight pl-2">{'*/'}</span></span>
                     <span className="desc d-block">Crack interviews of top tech based companies in just 100 days! </span>
                   </h1>
                   <div className="text-center mb-5">
@@ -486,7 +486,7 @@ function Page() {
                                 <div className="plan-price-desc">Limited Access</div>
                               </div>
                               <div className="plan-content px-3">
-                                <div className="plan-content-intro">Join free and you'll get:</div>
+                                <div className="plan-content-intro">Start Free Trial and you'll get:</div>
                                 <ul className="plan-content-list list-unstyled">
                                   <li><i className="theme-check-icon fas fa-check me-2" />Access to basic level videos</li>
                                   <li><i className="theme-check-icon fas fa-check me-2" />3 bonus resources</li>
@@ -494,7 +494,7 @@ function Page() {
                               </div>{/*//plan-content*/}
                             </div>{/*//plan-content*/}
                             <div className="plan-cta text-center px-4">
-                              <a className="btn btn-ghost btn-block" href="https://themes.3rdwavemedia.com/bootstrap-templates/product/devcourse-bootstrap-4-course-landing-page-template/" target="_blank">Join Free</a>
+                              <a className="btn btn-ghost btn-block" href="https://themes.3rdwavemedia.com/bootstrap-templates/product/devcourse-bootstrap-4-course-landing-page-template/" target="_blank">Start Free Trial</a>
                             </div>
                           </div>{/*//plan-item*/}
                         </div>{/*//col*/}
